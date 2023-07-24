@@ -31,12 +31,12 @@ Basic knowledge of facial recognition algorithms.
 
 Installation
 To set up the development environment, follow these steps:
-
 Clone the project repository from GitHub.
 Install the required dependencies using pip.
 Configure the database connection and API keys.
 Configuration
-The project's configuration is stored in a .env file, which should never be committed to version control. Ensure you provide the necessary environment variables for database access, API keys, and other sensitive information.
+The project's configuration is stored in a .env file, which should never be committed to version control. Ensure 
+you provide the necessary environment variables for database access, API keys, and other sensitive information.
 
  Usage
 Uploading Photos
